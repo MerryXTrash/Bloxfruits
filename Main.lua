@@ -2,7 +2,7 @@ local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "Xervice HUB" .. Fluent.Version,
+    Title = "Xervice HUB " .. Fluent.Version,
     SubTitle = "By Sofia1st",
     TabWidth = 115,
     Size = UDim2.fromOffset(580, 460),
